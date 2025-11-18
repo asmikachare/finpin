@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# Cocoapods
+Pods/
+
+# API Keys (never commit)
+APIConfig.swift

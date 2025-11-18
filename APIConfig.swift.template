@@ -1,0 +1,24 @@
+//
+//  APIConfig.swift.template
+//  Finpin
+//
+//  IMPORTANT: Copy this file to APIConfig.swift and add your actual API keys
+//  Never commit APIConfig.swift to version control!
+//
+
+import Foundation
+
+struct APIConfig {
+    // Get your Gemini API key from: https://makersuite.google.com/app/apikey
+    static let geminiAPIKey = "YOUR_GEMINI_API_KEY_HERE"
+    
+    // Get your Google Places API key from: https://console.cloud.google.com/
+    static let googlePlacesAPIKey = "YOUR_GOOGLE_PLACES_API_KEY_HERE"
+    
+    // Optional: Add other API keys as needed
+    // static let firebaseAPIKey = "YOUR_FIREBASE_KEY_HERE"
+}
+
+// Usage in AIService.swift:
+// private let geminiAPIKey = APIConfig.geminiAPIKey
+// private let googlePlacesAPIKey = APIConfig.googlePlacesAPIKey

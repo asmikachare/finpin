@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct FinpinApp: App {
+    @StateObject private var appState = AppState()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
+                .environmentObject(appState)
         }
     }
 }
