@@ -191,16 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Google Gemini API for AI capabilities
 - Google Maps Platform for location services
-- SwiftUI community for inspiration
-- CalHacks for the hackathon opportunity
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="screenshots/trips.png" width="250" alt="Trips View">
-  <img src="screenshots/map.png" width="250" alt="Map with Pins">
-  <img src="screenshots/budget.png" width="250" alt="Budget Tracking">
-</div>
+- My FSE 301 class for pushing me to work on an idea
 
 ---
 
