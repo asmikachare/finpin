@@ -182,10 +182,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Asmi Kachare**
-- Computer Science Senior at ASU
-- Vice President, Indian Students' Association
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- Computer Science Senior at ASU | Minor in Business
+- [GitHub](https://github.com/asmikachare)
+- [LinkedIn](https://linkedin.com/in/asmi-kachare)
 
 ## 🙏 Acknowledgments
 
